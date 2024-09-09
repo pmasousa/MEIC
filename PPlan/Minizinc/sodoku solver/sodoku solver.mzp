@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "SudokuSolver.mzn",
+        "input.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "SudokuSolver.mzn",
+        "input.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
