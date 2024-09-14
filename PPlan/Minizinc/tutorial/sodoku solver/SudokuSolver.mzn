@@ -12,6 +12,17 @@ array[1..n, 1..n] of var 1..n: grid;
 
 % Load the given Sudoku puzzle (0 represents an empty cell)
 array[1..n, 1..n] of int: puzzle;
+%array[1..n, 1..n] of 0..9: puzzle = [|
+%    1, 0, 0, 0, 0, 7, 0, 9, 0|
+%    0, 3, 0, 0, 2, 0, 0, 0, 8|
+%    0, 0, 9, 6, 0, 0, 5, 0, 0|
+%    0, 0, 5, 3, 0, 0, 9, 0, 0|
+%    0, 1, 0, 0, 8, 0, 0, 0, 2|
+%    6, 0, 0, 0, 0, 4, 0, 0, 0|
+%    3, 0, 0, 0, 0, 0, 0, 1, 0|
+%    0, 4, 0, 0, 0, 0, 0, 0, 7|
+%    0, 0, 7, 0, 0, 0, 3, 0, 0
+%|];
 
 % Constraints to fill pre-defined numbers (puzzle clues)
 constraint
