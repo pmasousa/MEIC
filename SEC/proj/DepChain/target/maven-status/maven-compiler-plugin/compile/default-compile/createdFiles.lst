@@ -1,0 +1,9 @@
+depchain/crypto/CryptoUtils.class
+depchain/util/Config.class
+depchain/client/ClientLibrary.class
+depchain/blockchain/BlockchainMember.class
+depchain/network/UDPReceiver.class
+depchain/consensus/ByzantineConsensus.class
+depchain/consensus/ConditionalCollect.class
+depchain/consensus/PerfectLinks.class
+depchain/network/UDPSender.class
