@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Build outputs
+bin/
+obj/
+out/
+build/
+dist/
+target/
+
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment variables
+.env
+.env.local
